@@ -1,74 +1,86 @@
-### Hi there 👋 Eae familia 👋
+<div align="center">
+  <h1 align="center">Hi, I'm Felipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  
+  <h3>Python Developer | Linux Specialist (NixOS) | Automation & DevOps</h3>
+  
+  <p>
+    I build reproducible environments and automate complex workflows. <br>
+    Currently transitioning from IT Field Operations to full-time <b>Software Engineering</b>.
+  </p>
 
-I'm Felpnoo / Feliep / Fragur (19 y.o) ! :sunglasses:
+  <a href="https://www.linkedin.com/in/felipess-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:felpssilvam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
-I love coding and anything tech 🧑‍💻
+<br>
 
-:page_with_curl: I'm currently learning:
-<br><br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+---
 
-👨‍🎓 I'm currently studing about:
-<br><br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🚀 About Me
 
+I am a **Computer Science student** (7th Semester) with a strong background in **Linux Infrastructure**. Unlike the average developer, I don't just write code; I care about *where* and *how* it runs. My workflow is built around **NixOS**, ensuring 100% reproducibility from development to production.
 
-🤓 I work with:
-<br><br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🔭 **I’m currently working on:** Building automated ETL pipelines and RPA bots.
+- 🌱 **I’m currently studying:** Cloud Architecture (AWS) and Advanced DevOps patterns.
+- 🐧 **My daily driver:** NixOS & Win11.
+- ⚡ **Superpower:** Turning manual, boring tasks into Python scripts.
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
+### 🛠️ Tech Stack & Tools
 
+<div align="center">
 
-🖥️ I use:
-<br><br>
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+**Core Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+**Infrastructure & OS**<br>
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Security-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
-:star: Here are some projects that I'm working on:
-- None 😿
+**Frameworks & Libraries**<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 
+**Dev Tools**<br>
+<img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Felpnoo">
-<img src="https://github-profile-trophy.vercel.app/?username=Felpnoo">
-</details>
+</div>
 
-🎮 My gaming accounts are:
+---
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/feliepcringe/)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-[![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/Felpnofdp)
+### 📜 Certifications & Foundations
 
+**Professional Certifications**
+* Cybersecurity Awareness (ISO 17024) – IBSEC
+* Cloud Administration & Solution Architect – FIAP
 
-Feel free to contact me :yum:
-<br><br>
-<a href="https://www.linkedin.com/in/feliepssilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Feliep-informational"></a>
-<a href="mailto:felpssilvam@gmail.com"><img src="https://img.shields.io/badge/Email-felpssilvam%40gmail.com-orange"></a>
+**Specialization (FIAP)**
+* Python Development
+* DevOps & Agile Culture
 
-<!--
-**Felpnoo/Felpnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Foundations (IFRS)**
+* Operating Systems & Network Architecture
+* Data Structures & Algorithms
+* Information Security Software
+* Database Fundamentals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felpnoo&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpnoo&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
