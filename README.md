@@ -84,3 +84,5 @@ I am a **Computer Science student** (7th Semester) with a strong background in *
   <img src="https://github-readme-stats.vercel.app/api?username=Felpnoo&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpnoo&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
